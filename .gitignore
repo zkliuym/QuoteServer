@@ -1,0 +1,5 @@
+project/windows/.vs
+project/windows/x64/*
+project/windows/*.db
+project/windows/*.opendb
+
